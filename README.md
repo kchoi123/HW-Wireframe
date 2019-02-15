@@ -1,12 +1,12 @@
 # HW-Wireframe
 
-##Overview
+## Overview
 
-###This is our first HW assignment
+### This is our first HW assignment
 
-####Chose to use the easier HW assignment. 
+#### Chose to use the easier HW assignment. 
 
-###Instructions
+### Instructions
 
 1. Create a new repository in GitHub called HW-Wireframe.
 2. Clone this repository to your computer by following the process we went over in class.
